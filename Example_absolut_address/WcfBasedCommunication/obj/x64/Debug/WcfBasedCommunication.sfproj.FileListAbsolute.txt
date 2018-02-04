@@ -1,0 +1,3 @@
+G:\ServiceFabric\WcfBasedCommunication\WcfBasedCommunication\obj\x64\Debug\WcfBasedCommunication.sfproj.CoreCompileInputs.cache
+E:\IT\Azure Service Fabric\ServiceFabric\WcfBasedCommunication\WcfBasedCommunication\obj\x64\Debug\WcfBasedCommunication.sfproj.CoreCompileInputs.cache
+E:\IT\Azure Service Fabric\Example_absolut_address\WcfBasedCommunication\obj\x64\Debug\WcfBasedCommunication.sfproj.CoreCompileInputs.cache

@@ -1,0 +1,5 @@
+D:\Azure\ServiceFabricApp\WcfBasedCommunication\ServiceContracts\bin\Debug\ServiceContracts.dll
+D:\Azure\ServiceFabricApp\WcfBasedCommunication\ServiceContracts\bin\Debug\ServiceContracts.pdb
+D:\Azure\ServiceFabricApp\WcfBasedCommunication\ServiceContracts\obj\Debug\ServiceContracts.csprojResolveAssemblyReference.cache
+D:\Azure\ServiceFabricApp\WcfBasedCommunication\ServiceContracts\obj\Debug\ServiceContracts.dll
+D:\Azure\ServiceFabricApp\WcfBasedCommunication\ServiceContracts\obj\Debug\ServiceContracts.pdb

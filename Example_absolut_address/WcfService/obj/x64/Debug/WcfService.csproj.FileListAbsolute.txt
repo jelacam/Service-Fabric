@@ -1,0 +1,168 @@
+D:\Azure\ServiceFabricApp\WcfBasedCommunication\WcfService\bin\x64\Debug\WcfService.exe.config
+D:\Azure\ServiceFabricApp\WcfBasedCommunication\WcfService\bin\x64\Debug\WcfService.exe
+D:\Azure\ServiceFabricApp\WcfBasedCommunication\WcfService\bin\x64\Debug\WcfService.pdb
+D:\Azure\ServiceFabricApp\WcfBasedCommunication\WcfService\bin\x64\Debug\Microsoft.ServiceFabric.Data.dll
+D:\Azure\ServiceFabricApp\WcfBasedCommunication\WcfService\bin\x64\Debug\Microsoft.ServiceFabric.Data.Interfaces.dll
+D:\Azure\ServiceFabricApp\WcfBasedCommunication\WcfService\bin\x64\Debug\Microsoft.ServiceFabric.Diagnostics.dll
+D:\Azure\ServiceFabricApp\WcfBasedCommunication\WcfService\bin\x64\Debug\Microsoft.ServiceFabric.FabricTransport.dll
+D:\Azure\ServiceFabricApp\WcfBasedCommunication\WcfService\bin\x64\Debug\Microsoft.ServiceFabric.FabricTransport.V2.dll
+D:\Azure\ServiceFabricApp\WcfBasedCommunication\WcfService\bin\x64\Debug\Microsoft.ServiceFabric.Internal.dll
+D:\Azure\ServiceFabricApp\WcfBasedCommunication\WcfService\bin\x64\Debug\Microsoft.ServiceFabric.Internal.Strings.dll
+D:\Azure\ServiceFabricApp\WcfBasedCommunication\WcfService\bin\x64\Debug\Microsoft.ServiceFabric.Preview.dll
+D:\Azure\ServiceFabricApp\WcfBasedCommunication\WcfService\bin\x64\Debug\Microsoft.ServiceFabric.Services.dll
+D:\Azure\ServiceFabricApp\WcfBasedCommunication\WcfService\bin\x64\Debug\Microsoft.ServiceFabric.Services.Remoting.dll
+D:\Azure\ServiceFabricApp\WcfBasedCommunication\WcfService\bin\x64\Debug\Microsoft.ServiceFabric.Services.Wcf.dll
+D:\Azure\ServiceFabricApp\WcfBasedCommunication\WcfService\bin\x64\Debug\ServiceContracts.dll
+D:\Azure\ServiceFabricApp\WcfBasedCommunication\WcfService\bin\x64\Debug\System.Fabric.dll
+D:\Azure\ServiceFabricApp\WcfBasedCommunication\WcfService\bin\x64\Debug\System.Fabric.Management.ServiceModel.dll
+D:\Azure\ServiceFabricApp\WcfBasedCommunication\WcfService\bin\x64\Debug\System.Fabric.Management.ServiceModel.XmlSerializers.dll
+D:\Azure\ServiceFabricApp\WcfBasedCommunication\WcfService\bin\x64\Debug\System.Fabric.Strings.dll
+D:\Azure\ServiceFabricApp\WcfBasedCommunication\WcfService\bin\x64\Debug\ServiceContracts.pdb
+D:\Azure\ServiceFabricApp\WcfBasedCommunication\WcfService\bin\x64\Debug\Microsoft.ServiceFabric.Data.xml
+D:\Azure\ServiceFabricApp\WcfBasedCommunication\WcfService\bin\x64\Debug\Microsoft.ServiceFabric.Data.Interfaces.xml
+D:\Azure\ServiceFabricApp\WcfBasedCommunication\WcfService\bin\x64\Debug\Microsoft.ServiceFabric.Diagnostics.xml
+D:\Azure\ServiceFabricApp\WcfBasedCommunication\WcfService\bin\x64\Debug\Microsoft.ServiceFabric.FabricTransport.xml
+D:\Azure\ServiceFabricApp\WcfBasedCommunication\WcfService\bin\x64\Debug\Microsoft.ServiceFabric.FabricTransport.V2.xml
+D:\Azure\ServiceFabricApp\WcfBasedCommunication\WcfService\bin\x64\Debug\Microsoft.ServiceFabric.Preview.xml
+D:\Azure\ServiceFabricApp\WcfBasedCommunication\WcfService\bin\x64\Debug\Microsoft.ServiceFabric.Services.xml
+D:\Azure\ServiceFabricApp\WcfBasedCommunication\WcfService\bin\x64\Debug\Microsoft.ServiceFabric.Services.Remoting.xml
+D:\Azure\ServiceFabricApp\WcfBasedCommunication\WcfService\bin\x64\Debug\Microsoft.ServiceFabric.Services.Wcf.xml
+D:\Azure\ServiceFabricApp\WcfBasedCommunication\WcfService\bin\x64\Debug\System.Fabric.xml
+D:\Azure\ServiceFabricApp\WcfBasedCommunication\WcfService\obj\x64\Debug\WcfService.csprojResolveAssemblyReference.cache
+D:\Azure\ServiceFabricApp\WcfBasedCommunication\WcfService\obj\x64\Debug\WcfService.exe
+D:\Azure\ServiceFabricApp\WcfBasedCommunication\WcfService\obj\x64\Debug\WcfService.pdb
+G:\ServiceFabric\WcfBasedCommunication\WcfService\bin\x64\Debug\WcfService.exe.config
+G:\ServiceFabric\WcfBasedCommunication\WcfService\bin\x64\Debug\WcfService.exe
+G:\ServiceFabric\WcfBasedCommunication\WcfService\bin\x64\Debug\WcfService.pdb
+G:\ServiceFabric\WcfBasedCommunication\WcfService\bin\x64\Debug\Microsoft.ServiceFabric.Data.dll
+G:\ServiceFabric\WcfBasedCommunication\WcfService\bin\x64\Debug\Microsoft.ServiceFabric.Data.Interfaces.dll
+G:\ServiceFabric\WcfBasedCommunication\WcfService\bin\x64\Debug\Microsoft.ServiceFabric.Diagnostics.dll
+G:\ServiceFabric\WcfBasedCommunication\WcfService\bin\x64\Debug\Microsoft.ServiceFabric.FabricTransport.dll
+G:\ServiceFabric\WcfBasedCommunication\WcfService\bin\x64\Debug\Microsoft.ServiceFabric.FabricTransport.V2.dll
+G:\ServiceFabric\WcfBasedCommunication\WcfService\bin\x64\Debug\Microsoft.ServiceFabric.Internal.dll
+G:\ServiceFabric\WcfBasedCommunication\WcfService\bin\x64\Debug\Microsoft.ServiceFabric.Internal.Strings.dll
+G:\ServiceFabric\WcfBasedCommunication\WcfService\bin\x64\Debug\Microsoft.ServiceFabric.Preview.dll
+G:\ServiceFabric\WcfBasedCommunication\WcfService\bin\x64\Debug\Microsoft.ServiceFabric.Services.dll
+G:\ServiceFabric\WcfBasedCommunication\WcfService\bin\x64\Debug\Microsoft.ServiceFabric.Services.Remoting.dll
+G:\ServiceFabric\WcfBasedCommunication\WcfService\bin\x64\Debug\Microsoft.ServiceFabric.Services.Wcf.dll
+G:\ServiceFabric\WcfBasedCommunication\WcfService\bin\x64\Debug\ServiceContracts.dll
+G:\ServiceFabric\WcfBasedCommunication\WcfService\bin\x64\Debug\System.Fabric.dll
+G:\ServiceFabric\WcfBasedCommunication\WcfService\bin\x64\Debug\System.Fabric.Management.ServiceModel.dll
+G:\ServiceFabric\WcfBasedCommunication\WcfService\bin\x64\Debug\System.Fabric.Management.ServiceModel.XmlSerializers.dll
+G:\ServiceFabric\WcfBasedCommunication\WcfService\bin\x64\Debug\System.Fabric.Strings.dll
+G:\ServiceFabric\WcfBasedCommunication\WcfService\bin\x64\Debug\ServiceContracts.pdb
+G:\ServiceFabric\WcfBasedCommunication\WcfService\bin\x64\Debug\Microsoft.ServiceFabric.Data.xml
+G:\ServiceFabric\WcfBasedCommunication\WcfService\bin\x64\Debug\Microsoft.ServiceFabric.Data.Interfaces.xml
+G:\ServiceFabric\WcfBasedCommunication\WcfService\bin\x64\Debug\Microsoft.ServiceFabric.Diagnostics.xml
+G:\ServiceFabric\WcfBasedCommunication\WcfService\bin\x64\Debug\Microsoft.ServiceFabric.FabricTransport.xml
+G:\ServiceFabric\WcfBasedCommunication\WcfService\bin\x64\Debug\Microsoft.ServiceFabric.FabricTransport.V2.xml
+G:\ServiceFabric\WcfBasedCommunication\WcfService\bin\x64\Debug\Microsoft.ServiceFabric.Preview.xml
+G:\ServiceFabric\WcfBasedCommunication\WcfService\bin\x64\Debug\Microsoft.ServiceFabric.Services.xml
+G:\ServiceFabric\WcfBasedCommunication\WcfService\bin\x64\Debug\Microsoft.ServiceFabric.Services.Remoting.xml
+G:\ServiceFabric\WcfBasedCommunication\WcfService\bin\x64\Debug\Microsoft.ServiceFabric.Services.Wcf.xml
+G:\ServiceFabric\WcfBasedCommunication\WcfService\bin\x64\Debug\System.Fabric.xml
+G:\ServiceFabric\WcfBasedCommunication\WcfService\obj\x64\Debug\WcfService.csprojResolveAssemblyReference.cache
+G:\ServiceFabric\WcfBasedCommunication\WcfService\obj\x64\Debug\WcfService.csproj.CoreCompileInputs.cache
+G:\ServiceFabric\WcfBasedCommunication\WcfService\obj\x64\Debug\WcfService.exe
+G:\ServiceFabric\WcfBasedCommunication\WcfService\obj\x64\Debug\WcfService.pdb
+E:\IT\Azure Service Fabric\ServiceFabric\WcfBasedCommunication\WcfService\bin\x64\Debug\WcfService.exe.config
+E:\IT\Azure Service Fabric\ServiceFabric\WcfBasedCommunication\WcfService\bin\x64\Debug\WcfService.exe
+E:\IT\Azure Service Fabric\ServiceFabric\WcfBasedCommunication\WcfService\bin\x64\Debug\WcfService.pdb
+E:\IT\Azure Service Fabric\ServiceFabric\WcfBasedCommunication\WcfService\bin\x64\Debug\Microsoft.ServiceFabric.Data.dll
+E:\IT\Azure Service Fabric\ServiceFabric\WcfBasedCommunication\WcfService\bin\x64\Debug\Microsoft.ServiceFabric.Data.Interfaces.dll
+E:\IT\Azure Service Fabric\ServiceFabric\WcfBasedCommunication\WcfService\bin\x64\Debug\Microsoft.ServiceFabric.Diagnostics.dll
+E:\IT\Azure Service Fabric\ServiceFabric\WcfBasedCommunication\WcfService\bin\x64\Debug\Microsoft.ServiceFabric.FabricTransport.dll
+E:\IT\Azure Service Fabric\ServiceFabric\WcfBasedCommunication\WcfService\bin\x64\Debug\Microsoft.ServiceFabric.FabricTransport.V2.dll
+E:\IT\Azure Service Fabric\ServiceFabric\WcfBasedCommunication\WcfService\bin\x64\Debug\Microsoft.ServiceFabric.Internal.dll
+E:\IT\Azure Service Fabric\ServiceFabric\WcfBasedCommunication\WcfService\bin\x64\Debug\Microsoft.ServiceFabric.Internal.Strings.dll
+E:\IT\Azure Service Fabric\ServiceFabric\WcfBasedCommunication\WcfService\bin\x64\Debug\Microsoft.ServiceFabric.Preview.dll
+E:\IT\Azure Service Fabric\ServiceFabric\WcfBasedCommunication\WcfService\bin\x64\Debug\Microsoft.ServiceFabric.Services.dll
+E:\IT\Azure Service Fabric\ServiceFabric\WcfBasedCommunication\WcfService\bin\x64\Debug\Microsoft.ServiceFabric.Services.Remoting.dll
+E:\IT\Azure Service Fabric\ServiceFabric\WcfBasedCommunication\WcfService\bin\x64\Debug\Microsoft.ServiceFabric.Services.Wcf.dll
+E:\IT\Azure Service Fabric\ServiceFabric\WcfBasedCommunication\WcfService\bin\x64\Debug\ServiceContracts.dll
+E:\IT\Azure Service Fabric\ServiceFabric\WcfBasedCommunication\WcfService\bin\x64\Debug\System.Fabric.dll
+E:\IT\Azure Service Fabric\ServiceFabric\WcfBasedCommunication\WcfService\bin\x64\Debug\System.Fabric.Management.ServiceModel.dll
+E:\IT\Azure Service Fabric\ServiceFabric\WcfBasedCommunication\WcfService\bin\x64\Debug\System.Fabric.Management.ServiceModel.XmlSerializers.dll
+E:\IT\Azure Service Fabric\ServiceFabric\WcfBasedCommunication\WcfService\bin\x64\Debug\System.Fabric.Strings.dll
+E:\IT\Azure Service Fabric\ServiceFabric\WcfBasedCommunication\WcfService\bin\x64\Debug\ServiceContracts.pdb
+E:\IT\Azure Service Fabric\ServiceFabric\WcfBasedCommunication\WcfService\bin\x64\Debug\Microsoft.ServiceFabric.Data.xml
+E:\IT\Azure Service Fabric\ServiceFabric\WcfBasedCommunication\WcfService\bin\x64\Debug\Microsoft.ServiceFabric.Data.Interfaces.xml
+E:\IT\Azure Service Fabric\ServiceFabric\WcfBasedCommunication\WcfService\bin\x64\Debug\Microsoft.ServiceFabric.Diagnostics.xml
+E:\IT\Azure Service Fabric\ServiceFabric\WcfBasedCommunication\WcfService\bin\x64\Debug\Microsoft.ServiceFabric.FabricTransport.xml
+E:\IT\Azure Service Fabric\ServiceFabric\WcfBasedCommunication\WcfService\bin\x64\Debug\Microsoft.ServiceFabric.FabricTransport.V2.xml
+E:\IT\Azure Service Fabric\ServiceFabric\WcfBasedCommunication\WcfService\bin\x64\Debug\Microsoft.ServiceFabric.Preview.xml
+E:\IT\Azure Service Fabric\ServiceFabric\WcfBasedCommunication\WcfService\bin\x64\Debug\Microsoft.ServiceFabric.Services.xml
+E:\IT\Azure Service Fabric\ServiceFabric\WcfBasedCommunication\WcfService\bin\x64\Debug\Microsoft.ServiceFabric.Services.Remoting.xml
+E:\IT\Azure Service Fabric\ServiceFabric\WcfBasedCommunication\WcfService\bin\x64\Debug\Microsoft.ServiceFabric.Services.Wcf.xml
+E:\IT\Azure Service Fabric\ServiceFabric\WcfBasedCommunication\WcfService\bin\x64\Debug\System.Fabric.xml
+E:\IT\Azure Service Fabric\ServiceFabric\WcfBasedCommunication\WcfService\obj\x64\Debug\WcfService.csprojResolveAssemblyReference.cache
+E:\IT\Azure Service Fabric\ServiceFabric\WcfBasedCommunication\WcfService\obj\x64\Debug\WcfService.csproj.CoreCompileInputs.cache
+E:\IT\Azure Service Fabric\ServiceFabric\WcfBasedCommunication\WcfService\obj\x64\Debug\WcfService.exe
+E:\IT\Azure Service Fabric\ServiceFabric\WcfBasedCommunication\WcfService\obj\x64\Debug\WcfService.pdb
+D:\Azure\ServiceFabricApp\HelloWCFService\WcfBasedCommunication\WcfService\bin\x64\Debug\WcfService.exe.config
+D:\Azure\ServiceFabricApp\HelloWCFService\WcfBasedCommunication\WcfService\bin\x64\Debug\WcfService.exe
+D:\Azure\ServiceFabricApp\HelloWCFService\WcfBasedCommunication\WcfService\bin\x64\Debug\WcfService.pdb
+D:\Azure\ServiceFabricApp\HelloWCFService\WcfBasedCommunication\WcfService\bin\x64\Debug\Microsoft.ServiceFabric.Data.dll
+D:\Azure\ServiceFabricApp\HelloWCFService\WcfBasedCommunication\WcfService\bin\x64\Debug\Microsoft.ServiceFabric.Data.Interfaces.dll
+D:\Azure\ServiceFabricApp\HelloWCFService\WcfBasedCommunication\WcfService\bin\x64\Debug\Microsoft.ServiceFabric.Diagnostics.dll
+D:\Azure\ServiceFabricApp\HelloWCFService\WcfBasedCommunication\WcfService\bin\x64\Debug\Microsoft.ServiceFabric.FabricTransport.dll
+D:\Azure\ServiceFabricApp\HelloWCFService\WcfBasedCommunication\WcfService\bin\x64\Debug\Microsoft.ServiceFabric.FabricTransport.V2.dll
+D:\Azure\ServiceFabricApp\HelloWCFService\WcfBasedCommunication\WcfService\bin\x64\Debug\Microsoft.ServiceFabric.Internal.dll
+D:\Azure\ServiceFabricApp\HelloWCFService\WcfBasedCommunication\WcfService\bin\x64\Debug\Microsoft.ServiceFabric.Internal.Strings.dll
+D:\Azure\ServiceFabricApp\HelloWCFService\WcfBasedCommunication\WcfService\bin\x64\Debug\Microsoft.ServiceFabric.Preview.dll
+D:\Azure\ServiceFabricApp\HelloWCFService\WcfBasedCommunication\WcfService\bin\x64\Debug\Microsoft.ServiceFabric.Services.dll
+D:\Azure\ServiceFabricApp\HelloWCFService\WcfBasedCommunication\WcfService\bin\x64\Debug\Microsoft.ServiceFabric.Services.Remoting.dll
+D:\Azure\ServiceFabricApp\HelloWCFService\WcfBasedCommunication\WcfService\bin\x64\Debug\Microsoft.ServiceFabric.Services.Wcf.dll
+D:\Azure\ServiceFabricApp\HelloWCFService\WcfBasedCommunication\WcfService\bin\x64\Debug\ServiceContracts.dll
+D:\Azure\ServiceFabricApp\HelloWCFService\WcfBasedCommunication\WcfService\bin\x64\Debug\System.Fabric.dll
+D:\Azure\ServiceFabricApp\HelloWCFService\WcfBasedCommunication\WcfService\bin\x64\Debug\System.Fabric.Management.ServiceModel.dll
+D:\Azure\ServiceFabricApp\HelloWCFService\WcfBasedCommunication\WcfService\bin\x64\Debug\System.Fabric.Management.ServiceModel.XmlSerializers.dll
+D:\Azure\ServiceFabricApp\HelloWCFService\WcfBasedCommunication\WcfService\bin\x64\Debug\System.Fabric.Strings.dll
+D:\Azure\ServiceFabricApp\HelloWCFService\WcfBasedCommunication\WcfService\bin\x64\Debug\ServiceContracts.pdb
+D:\Azure\ServiceFabricApp\HelloWCFService\WcfBasedCommunication\WcfService\bin\x64\Debug\Microsoft.ServiceFabric.Data.xml
+D:\Azure\ServiceFabricApp\HelloWCFService\WcfBasedCommunication\WcfService\bin\x64\Debug\Microsoft.ServiceFabric.Data.Interfaces.xml
+D:\Azure\ServiceFabricApp\HelloWCFService\WcfBasedCommunication\WcfService\bin\x64\Debug\Microsoft.ServiceFabric.Diagnostics.xml
+D:\Azure\ServiceFabricApp\HelloWCFService\WcfBasedCommunication\WcfService\bin\x64\Debug\Microsoft.ServiceFabric.FabricTransport.xml
+D:\Azure\ServiceFabricApp\HelloWCFService\WcfBasedCommunication\WcfService\bin\x64\Debug\Microsoft.ServiceFabric.FabricTransport.V2.xml
+D:\Azure\ServiceFabricApp\HelloWCFService\WcfBasedCommunication\WcfService\bin\x64\Debug\Microsoft.ServiceFabric.Preview.xml
+D:\Azure\ServiceFabricApp\HelloWCFService\WcfBasedCommunication\WcfService\bin\x64\Debug\Microsoft.ServiceFabric.Services.xml
+D:\Azure\ServiceFabricApp\HelloWCFService\WcfBasedCommunication\WcfService\bin\x64\Debug\Microsoft.ServiceFabric.Services.Remoting.xml
+D:\Azure\ServiceFabricApp\HelloWCFService\WcfBasedCommunication\WcfService\bin\x64\Debug\Microsoft.ServiceFabric.Services.Wcf.xml
+D:\Azure\ServiceFabricApp\HelloWCFService\WcfBasedCommunication\WcfService\bin\x64\Debug\System.Fabric.xml
+D:\Azure\ServiceFabricApp\HelloWCFService\WcfBasedCommunication\WcfService\obj\x64\Debug\WcfService.csprojResolveAssemblyReference.cache
+D:\Azure\ServiceFabricApp\HelloWCFService\WcfBasedCommunication\WcfService\obj\x64\Debug\WcfService.exe
+D:\Azure\ServiceFabricApp\HelloWCFService\WcfBasedCommunication\WcfService\obj\x64\Debug\WcfService.pdb
+E:\IT\Azure Service Fabric\Example_absolut_address\WcfService\bin\x64\Debug\WcfService.exe.config
+E:\IT\Azure Service Fabric\Example_absolut_address\WcfService\bin\x64\Debug\WcfService.exe
+E:\IT\Azure Service Fabric\Example_absolut_address\WcfService\bin\x64\Debug\WcfService.pdb
+E:\IT\Azure Service Fabric\Example_absolut_address\WcfService\bin\x64\Debug\Microsoft.ServiceFabric.Data.dll
+E:\IT\Azure Service Fabric\Example_absolut_address\WcfService\bin\x64\Debug\Microsoft.ServiceFabric.Data.Interfaces.dll
+E:\IT\Azure Service Fabric\Example_absolut_address\WcfService\bin\x64\Debug\Microsoft.ServiceFabric.Diagnostics.dll
+E:\IT\Azure Service Fabric\Example_absolut_address\WcfService\bin\x64\Debug\Microsoft.ServiceFabric.FabricTransport.dll
+E:\IT\Azure Service Fabric\Example_absolut_address\WcfService\bin\x64\Debug\Microsoft.ServiceFabric.FabricTransport.V2.dll
+E:\IT\Azure Service Fabric\Example_absolut_address\WcfService\bin\x64\Debug\Microsoft.ServiceFabric.Internal.dll
+E:\IT\Azure Service Fabric\Example_absolut_address\WcfService\bin\x64\Debug\Microsoft.ServiceFabric.Internal.Strings.dll
+E:\IT\Azure Service Fabric\Example_absolut_address\WcfService\bin\x64\Debug\Microsoft.ServiceFabric.Preview.dll
+E:\IT\Azure Service Fabric\Example_absolut_address\WcfService\bin\x64\Debug\Microsoft.ServiceFabric.Services.dll
+E:\IT\Azure Service Fabric\Example_absolut_address\WcfService\bin\x64\Debug\Microsoft.ServiceFabric.Services.Remoting.dll
+E:\IT\Azure Service Fabric\Example_absolut_address\WcfService\bin\x64\Debug\Microsoft.ServiceFabric.Services.Wcf.dll
+E:\IT\Azure Service Fabric\Example_absolut_address\WcfService\bin\x64\Debug\ServiceContracts.dll
+E:\IT\Azure Service Fabric\Example_absolut_address\WcfService\bin\x64\Debug\System.Fabric.dll
+E:\IT\Azure Service Fabric\Example_absolut_address\WcfService\bin\x64\Debug\System.Fabric.Management.ServiceModel.dll
+E:\IT\Azure Service Fabric\Example_absolut_address\WcfService\bin\x64\Debug\System.Fabric.Management.ServiceModel.XmlSerializers.dll
+E:\IT\Azure Service Fabric\Example_absolut_address\WcfService\bin\x64\Debug\System.Fabric.Strings.dll
+E:\IT\Azure Service Fabric\Example_absolut_address\WcfService\bin\x64\Debug\ServiceContracts.pdb
+E:\IT\Azure Service Fabric\Example_absolut_address\WcfService\bin\x64\Debug\Microsoft.ServiceFabric.Data.xml
+E:\IT\Azure Service Fabric\Example_absolut_address\WcfService\bin\x64\Debug\Microsoft.ServiceFabric.Data.Interfaces.xml
+E:\IT\Azure Service Fabric\Example_absolut_address\WcfService\bin\x64\Debug\Microsoft.ServiceFabric.Diagnostics.xml
+E:\IT\Azure Service Fabric\Example_absolut_address\WcfService\bin\x64\Debug\Microsoft.ServiceFabric.FabricTransport.xml
+E:\IT\Azure Service Fabric\Example_absolut_address\WcfService\bin\x64\Debug\Microsoft.ServiceFabric.FabricTransport.V2.xml
+E:\IT\Azure Service Fabric\Example_absolut_address\WcfService\bin\x64\Debug\Microsoft.ServiceFabric.Preview.xml
+E:\IT\Azure Service Fabric\Example_absolut_address\WcfService\bin\x64\Debug\Microsoft.ServiceFabric.Services.xml
+E:\IT\Azure Service Fabric\Example_absolut_address\WcfService\bin\x64\Debug\Microsoft.ServiceFabric.Services.Remoting.xml
+E:\IT\Azure Service Fabric\Example_absolut_address\WcfService\bin\x64\Debug\Microsoft.ServiceFabric.Services.Wcf.xml
+E:\IT\Azure Service Fabric\Example_absolut_address\WcfService\bin\x64\Debug\System.Fabric.xml
+E:\IT\Azure Service Fabric\Example_absolut_address\WcfService\obj\x64\Debug\WcfService.csprojResolveAssemblyReference.cache
+E:\IT\Azure Service Fabric\Example_absolut_address\WcfService\obj\x64\Debug\WcfService.csproj.CoreCompileInputs.cache
+E:\IT\Azure Service Fabric\Example_absolut_address\WcfService\obj\x64\Debug\WcfService.exe
+E:\IT\Azure Service Fabric\Example_absolut_address\WcfService\obj\x64\Debug\WcfService.pdb
