@@ -32,8 +32,8 @@
     <Content Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\GatewayService\GatewayService.csproj" />
     <ProjectReference Include="..\WcfService\WcfService.csproj" />
-    <ProjectReference Include="..\WcfStatefulService\WcfStatefulService.csproj" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.Common.targets" />
   <PropertyGroup>

@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.27130.2020
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{A07B5EB6-E848-4116-A8D0-A826331D98C6}") = "WcfBasedCommunication", "WcfBasedCommunication\WcfBasedCommunication.sfproj", "{4E14D0FF-971C-4A98-B203-7CE1FF316A40}"
 	ProjectSection(ProjectDependencies) = postProject
@@ -17,6 +17,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WcfStatefulService", "WcfStatefulService\WcfStatefulService.csproj", "{D13A9F56-35CC-4879-AE9F-E76CC6896677}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfClient", "WpfClient\WpfClient.csproj", "{3A613281-A626-444C-91FA-776932F2ED0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GatewayService", "GatewayService\GatewayService.csproj", "{7D8A963E-F412-47E8-A6DB-08440A15A88E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -70,6 +72,12 @@ Global
 		{3A613281-A626-444C-91FA-776932F2ED0C}.Release|Any CPU.Build.0 = Release|Any CPU
 		{3A613281-A626-444C-91FA-776932F2ED0C}.Release|x64.ActiveCfg = Release|Any CPU
 		{3A613281-A626-444C-91FA-776932F2ED0C}.Release|x64.Build.0 = Release|Any CPU
+		{7D8A963E-F412-47E8-A6DB-08440A15A88E}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{7D8A963E-F412-47E8-A6DB-08440A15A88E}.Debug|x64.ActiveCfg = Debug|x64
+		{7D8A963E-F412-47E8-A6DB-08440A15A88E}.Debug|x64.Build.0 = Debug|x64
+		{7D8A963E-F412-47E8-A6DB-08440A15A88E}.Release|Any CPU.ActiveCfg = Release|x64
+		{7D8A963E-F412-47E8-A6DB-08440A15A88E}.Release|x64.ActiveCfg = Release|x64
+		{7D8A963E-F412-47E8-A6DB-08440A15A88E}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

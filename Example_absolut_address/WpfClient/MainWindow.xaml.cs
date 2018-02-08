@@ -1,4 +1,6 @@
-﻿using System;
+﻿using Microsoft.ServiceFabric.Services.Communication.Wcf;
+using ServiceContracts;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -28,7 +30,9 @@ namespace WpfClient
 
         public void ConnectToWcfService()
         {
-            var ret = HelloProxy.Instance.Hello();
+            // var ret = HelloProxy.Instance.Hello();
+            string uri = "net.tcp://localhost:1000/Gateway/WcfService";
+            var ret = WcfClientProxy<IHelloContract>.InvokeMethod<string>(x => x.Hello(), WcfUtility.CreateTcpClientBinding(), new System.ServiceModel.EndpointAddress(uri));
         }
     }
 }

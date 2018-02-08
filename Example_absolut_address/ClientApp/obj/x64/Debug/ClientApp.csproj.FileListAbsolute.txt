@@ -133,3 +133,36 @@ E:\IT\Azure Service Fabric\Repo\Example_absolut_address\ClientApp\obj\x64\Debug\
 E:\IT\Azure Service Fabric\Repo\Example_absolut_address\ClientApp\obj\x64\Debug\ClientApp.csproj.CoreCompileInputs.cache
 E:\IT\Azure Service Fabric\Repo\Example_absolut_address\ClientApp\obj\x64\Debug\ClientApp.exe
 E:\IT\Azure Service Fabric\Repo\Example_absolut_address\ClientApp\obj\x64\Debug\ClientApp.pdb
+D:\ServiceFabric_repo\Example_absolut_address\ClientApp\bin\x64\Debug\ClientApp.exe.config
+D:\ServiceFabric_repo\Example_absolut_address\ClientApp\bin\x64\Debug\ClientApp.exe
+D:\ServiceFabric_repo\Example_absolut_address\ClientApp\bin\x64\Debug\ClientApp.pdb
+D:\ServiceFabric_repo\Example_absolut_address\ClientApp\bin\x64\Debug\Microsoft.ServiceFabric.Data.dll
+D:\ServiceFabric_repo\Example_absolut_address\ClientApp\bin\x64\Debug\Microsoft.ServiceFabric.Data.Interfaces.dll
+D:\ServiceFabric_repo\Example_absolut_address\ClientApp\bin\x64\Debug\Microsoft.ServiceFabric.Diagnostics.dll
+D:\ServiceFabric_repo\Example_absolut_address\ClientApp\bin\x64\Debug\Microsoft.ServiceFabric.FabricTransport.dll
+D:\ServiceFabric_repo\Example_absolut_address\ClientApp\bin\x64\Debug\Microsoft.ServiceFabric.FabricTransport.V2.dll
+D:\ServiceFabric_repo\Example_absolut_address\ClientApp\bin\x64\Debug\Microsoft.ServiceFabric.Internal.dll
+D:\ServiceFabric_repo\Example_absolut_address\ClientApp\bin\x64\Debug\Microsoft.ServiceFabric.Internal.Strings.dll
+D:\ServiceFabric_repo\Example_absolut_address\ClientApp\bin\x64\Debug\Microsoft.ServiceFabric.Preview.dll
+D:\ServiceFabric_repo\Example_absolut_address\ClientApp\bin\x64\Debug\Microsoft.ServiceFabric.Services.dll
+D:\ServiceFabric_repo\Example_absolut_address\ClientApp\bin\x64\Debug\Microsoft.ServiceFabric.Services.Remoting.dll
+D:\ServiceFabric_repo\Example_absolut_address\ClientApp\bin\x64\Debug\Microsoft.ServiceFabric.Services.Wcf.dll
+D:\ServiceFabric_repo\Example_absolut_address\ClientApp\bin\x64\Debug\ServiceContracts.dll
+D:\ServiceFabric_repo\Example_absolut_address\ClientApp\bin\x64\Debug\System.Fabric.dll
+D:\ServiceFabric_repo\Example_absolut_address\ClientApp\bin\x64\Debug\System.Fabric.Management.ServiceModel.dll
+D:\ServiceFabric_repo\Example_absolut_address\ClientApp\bin\x64\Debug\System.Fabric.Management.ServiceModel.XmlSerializers.dll
+D:\ServiceFabric_repo\Example_absolut_address\ClientApp\bin\x64\Debug\System.Fabric.Strings.dll
+D:\ServiceFabric_repo\Example_absolut_address\ClientApp\bin\x64\Debug\ServiceContracts.pdb
+D:\ServiceFabric_repo\Example_absolut_address\ClientApp\bin\x64\Debug\Microsoft.ServiceFabric.Data.xml
+D:\ServiceFabric_repo\Example_absolut_address\ClientApp\bin\x64\Debug\Microsoft.ServiceFabric.Data.Interfaces.xml
+D:\ServiceFabric_repo\Example_absolut_address\ClientApp\bin\x64\Debug\Microsoft.ServiceFabric.Diagnostics.xml
+D:\ServiceFabric_repo\Example_absolut_address\ClientApp\bin\x64\Debug\Microsoft.ServiceFabric.FabricTransport.xml
+D:\ServiceFabric_repo\Example_absolut_address\ClientApp\bin\x64\Debug\Microsoft.ServiceFabric.FabricTransport.V2.xml
+D:\ServiceFabric_repo\Example_absolut_address\ClientApp\bin\x64\Debug\Microsoft.ServiceFabric.Preview.xml
+D:\ServiceFabric_repo\Example_absolut_address\ClientApp\bin\x64\Debug\Microsoft.ServiceFabric.Services.xml
+D:\ServiceFabric_repo\Example_absolut_address\ClientApp\bin\x64\Debug\Microsoft.ServiceFabric.Services.Remoting.xml
+D:\ServiceFabric_repo\Example_absolut_address\ClientApp\bin\x64\Debug\Microsoft.ServiceFabric.Services.Wcf.xml
+D:\ServiceFabric_repo\Example_absolut_address\ClientApp\bin\x64\Debug\System.Fabric.xml
+D:\ServiceFabric_repo\Example_absolut_address\ClientApp\obj\x64\Debug\ClientApp.csprojResolveAssemblyReference.cache
+D:\ServiceFabric_repo\Example_absolut_address\ClientApp\obj\x64\Debug\ClientApp.exe
+D:\ServiceFabric_repo\Example_absolut_address\ClientApp\obj\x64\Debug\ClientApp.pdb

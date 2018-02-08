@@ -15,7 +15,7 @@ namespace WpfClient
 {
     public class HelloProxy : IHelloContract
     {
-        private static ServicePartitionResolver resolver = new ServicePartitionResolver();
+       
 
         private static ChannelFactory<IHelloContract> factory;
         private static IHelloContract proxy;
@@ -39,15 +39,6 @@ namespace WpfClient
                     proxy = value;
                 }
             }
-            //factory = new WcfCommunicationClientFactory<IHelloContract>(
-            //            clientBinding: WcfUtility.CreateTcpClientBinding(),
-            //            servicePartitionResolver: resolver,
-            //            traceId: "HelloProxy_Stateless");
-
-            //proxy = new ServicePartitionClient<WcfCommunicationClient<IHelloContract>>(
-            //        communicationClientFactory: factory,
-            //        serviceUri: new Uri("fabric:/WcfBasedCommunication/WcfService"),
-            //        listenerName: "WCFServiceEndpoint");
         }
 
         public string AnotherHello()
